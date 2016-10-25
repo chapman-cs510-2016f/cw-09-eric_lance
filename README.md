@@ -1,8 +1,8 @@
 # CS510 CW 9
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Eric and Lance_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-09-eric_lance.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-09-eric_lance)
 
 **Due date:** 2016/11/01
 
@@ -50,4 +50,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Eric and Lance
