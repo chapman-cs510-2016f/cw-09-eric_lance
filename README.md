@@ -39,7 +39,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+Analyzing a broken function was a good way to get some practice with the language as it requires understanding what the code is doing and why. I found the Makefiles and general code organization to be a useful example of how to organize c code.
 
 ## Honor Pledge
 
