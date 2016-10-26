@@ -32,12 +32,22 @@ static char * test_fac_neg5() {
     return 0;
 }
 
+/* INSTRUCTOR ADDITION:
+ *   Just because I had to.
+ */
+static char * test_fac_1() {
+    mu_assert("error, factorial(1) != 1", factorial(1) == 1);
+    return 0;
+}
+
 /* all_tests collects a set of tests defined above, and runs them
  */
 static char * all_tests() {
     mu_run_test(test_fac_5);
     mu_run_test(test_fac_0);
     mu_run_test(test_fac_neg5);
+    // INSTRUCTOR ADDITION:
+    mu_run_test(test_fac_1);
     return 0;
 }
 
